@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default colors (probably already there) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Toast colors – these make the text finally visible -->
+    <color name="toast_background_color">#E61E2B3F</color>  <!-- Dark grayish (looks great on both light & dark mode) -->
+    <color name="toast_text_color">#FFFFFF</color>          <!-- Pure white text -->
+
+</resources>

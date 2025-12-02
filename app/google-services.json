@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595018140216",
+    "project_id": "iptfinalproject-bb6c9",
+    "storage_bucket": "iptfinalproject-bb6c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595018140216:android:358eb3f2cc50816e7db4cd",
+        "android_client_info": {
+          "package_name": "com.example.ipt_finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595018140216-bmcgk48qd3u05m1emlckhdrrqi24ufre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXjef-lTmq2Y_Z13Te-XeimZjwkeU_tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595018140216-bmcgk48qd3u05m1emlckhdrrqi24ufre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

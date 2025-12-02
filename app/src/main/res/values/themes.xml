@@ -1,0 +1,18 @@
+<!-- In res/values/themes.xml --><resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 1. Base application theme with status bar settings -->
+    <style name="Base.Theme.IPT_FINALPROJECT" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- 2. Your main app theme, which inherits from the base theme -->
+    <style name="Theme.IPT_FINALPROJECT" parent="Base.Theme.IPT_FINALPROJECT">
+        <!-- All toast styling has been removed from here -->
+    </style>
+
+    <!-- The MyToastTextStyle and MyToastStyle have been DELETED -->
+
+</resources>
+    

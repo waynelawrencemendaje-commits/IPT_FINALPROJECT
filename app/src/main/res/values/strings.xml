@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IPT_FINALPROJECT</string>
+
+    <!-- Pacific Rim -->
+    <string name="pacific_rim_title">Pacific Rim</string>
+    <string name="pacific_rim_year_genre">2013 • Action/Sci-Fi</string>
+    <string name="pacific_rim_plot">Zora Bennett leads a team of skilled operatives to the most dangerous place on Earth: an island research facility for the original Jurassic Park. Their mission is to secure genetic material from dinosaurs whose DNA can provide life-saving benefits to mankind. As the top-secret expedition becomes more and more risky, they soon make a sinister, shocking discovery that’s been hidden from the world for decades.</string>
+    <string name="pacific_rim_writers">Writers: Travis Beacham, Guillermo del Toro</string>
+
+    <string name="watch_it_now">Watch it Now</string>
+
+    <string name="default_web_client_id">PASTE_YOUR_WEB_CLIENT_ID_HERE</string>
+</resources>

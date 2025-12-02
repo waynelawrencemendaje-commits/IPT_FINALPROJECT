@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IPT_FINALPROJECT">
+
+        <!-- Login Screen (Launcher) -->
+        <activity
+            android:name=".MainLogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Dashboard -->
+        <activity
+            android:name=".MainDashBoard"
+            android:exported="false" />
+
+        <!-- Profile & Others -->
+        <activity
+            android:name=".MainAccount"
+            android:exported="false" />
+        <activity
+            android:name=".MainSignup"
+            android:exported="false" />
+        <activity
+            android:name=".MainWatchLater"
+            android:exported="false" />
+
+        <!-- Movie Detail Activities (MUST match your Java class names exactly!) -->
+        <activity
+            android:name=".MainPacificRim"
+            android:exported="false" />
+        <activity
+            android:name=".MainArrival"
+            android:exported="false" />
+        <activity
+            android:name=".MainMatrix"
+            android:exported="false" />
+        <activity
+            android:name=".MainInception"
+            android:exported="false" />
+        <activity
+            android:name=".MainTerminator"
+            android:exported="false" />
+        <activity
+            android:name=".MainJohnWick"
+            android:exported="false" />
+        <activity
+            android:name=".MainThree"
+            android:exported="false" />
+        <activity
+            android:name=".MainWonderWoman"
+            android:exported="false" />
+        <activity
+            android:name=".MainExtraction"
+            android:exported="false" />
+        <activity
+            android:name=".MainSuperman"
+            android:exported="false" />
+        <activity
+            android:name=".MainLordOfTheRings"
+            android:exported="false" />
+        <activity
+            android:name=".MainFiftyShadesOfGrey"
+            android:exported="false" />
+        <activity
+            android:name=".MainBlindSide"
+            android:exported="false" />
+        <activity
+            android:name=".MainMeBeforeYou"
+            android:exported="false" />
+        <activity
+            android:name=".MainImpossible"
+            android:exported="false" />
+        <activity
+            android:name=".MainTheHangover"
+            android:exported="false" />
+        <activity
+            android:name=".MainCentralIntelligence"
+            android:exported="false" />
+        <activity
+            android:name=".MainThreeIdiots"
+            android:exported="false" />
+        <activity
+            android:name=".MainJumanji"
+            android:exported="false" />
+        <activity
+            android:name=".MainPitchPerfect"
+            android:exported="false" />
+        <activity
+            android:name=".MainIT"
+            android:exported="false" />
+        <activity
+            android:name=".MainSaw"
+            android:exported="false" />
+        <activity
+            android:name=".MainUs"
+            android:exported="false" />
+        <activity
+            android:name=".MainYearsLater"
+            android:exported="false" />
+        <activity
+            android:name=".MainSmile"
+            android:exported="false" />
+
+
+    </application>
+</manifest>
